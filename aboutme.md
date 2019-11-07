@@ -8,7 +8,7 @@ My name is Ahn Junseo.
 - Korean Pwner
 - 선린인터넷고등학교 2학년
 - 서울여대 정보영재원 고등전문 B
-
+- 헬로코딩 부장
 ### my history
 
 # 2018
