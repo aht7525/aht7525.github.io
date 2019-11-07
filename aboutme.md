@@ -10,6 +10,6 @@ My name is Ahn Junseo.
 - 서울여대 정보영재원 고등전문 B
 
 ### my history
-  2018
+subtitle:2018
   
-  2019
+subtitle:2019
