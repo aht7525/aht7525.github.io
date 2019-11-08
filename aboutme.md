@@ -3,8 +3,8 @@ layout: page
 title: About me
 ---
 
-My name is Ahn Junseo.
-팀구해요ㅠㅠ
+<p>My name is Ahn Junseo.</p>
+<p>팀구해요ㅠㅠ</p>
 
 - Korean Pwner
 - 선린인터넷고등학교 2학년
