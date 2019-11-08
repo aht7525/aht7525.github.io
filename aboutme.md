@@ -4,6 +4,7 @@ title: About me
 ---
 
 My name is Ahn Junseo.
+팀구해요ㅠㅠ
 
 - Korean Pwner
 - 선린인터넷고등학교 2학년
