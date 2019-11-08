@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
+title: 마크다운 작성 예시
+subtitle: 마크다운 작성 예시
+gh-repo: aht7525/github.io
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
