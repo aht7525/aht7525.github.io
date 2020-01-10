@@ -19,3 +19,6 @@ __gdb.execute__ : gdb 명령을 사용할수 있게함
 ex) gdb.execute('b*(주소값)'), gdb.execute('set pagination off'), gdb.execute('r')
 
 int(__gdb.parse_and_eval("$rip")__) : rip 값을 반환
+
+xxd "파일이름" | grep 찾을내용
+objdump -d 파일 | grep xxd값
